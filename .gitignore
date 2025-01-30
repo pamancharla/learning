@@ -2,3 +2,4 @@
 .python-version
 experimentation/*
 .DS_Store
+*__pycache__
